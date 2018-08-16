@@ -1,0 +1,18 @@
+{
+  "name": "react-focusimg",
+  "version": "1.0.0",
+  "description": "a slideshow component for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "焦点图",
+    "轮播图",
+    "focusimg",
+    "slideshow",
+    "react"
+  ],
+  "author": "qq610382941",
+  "license": "ISC"
+}
